@@ -1,0 +1,7 @@
+interface:
+  display_name: "Zhou Scholar Dialogue"
+  short_description: "Mask modern questions as Zhou-era scholarly exchange"
+  default_prompt: "Use $zhou-scholar-dialogue to rewrite my question into respectful, era-consistent Zhou-era discourse that hides modern identity."
+
+policy:
+  allow_implicit_invocation: true
